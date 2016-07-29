@@ -95,7 +95,7 @@ passmarked.createRunner(
 
 ## Dependencies
 
-This module does not need any specific external services or packages. This section will be updated if that ever changes with detailed setup steps/links.
+This module does not need any specific external services or packages. This section will be updated if that ever changes with detailed setup steps and links for downloads.
 
 ## Rules
 
