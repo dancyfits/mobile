@@ -1,6 +1,6 @@
 {
   "name": "@passmarked/mobile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Rules related to checking if the the page is optimised and compatible for mobile devices",
   "main": "index.js",
   "scripts": {
