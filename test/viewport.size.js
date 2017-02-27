@@ -14,7 +14,7 @@ describe('viewport.size', function(){
       {
 
         url: 'http://example.com',
-        oversizedNodes: [
+        nodes: [
         ]
 
       },
@@ -88,7 +88,7 @@ describe('viewport.size', function(){
       {
 
         url: 'http://example.com',
-        oversizedNodes: [
+        nodes: [
 
           {
 
